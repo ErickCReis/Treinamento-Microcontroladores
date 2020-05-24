@@ -1,3 +1,7 @@
-# ATmega328p
+## 2. ATmega328p
 
-[Entradas e Saídas](entradas-e-saidas.md)
+<div align="center">
+    <img src="Figuras\diagrama-de-blocos.png" />
+</div>
+
+#### [3. Entradas e Saídas](entradas-e-saidas.md)
