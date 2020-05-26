@@ -10,26 +10,26 @@ Treinamento com o objetivo de mostrar uma visão geral dos microcontroladores be
 
 ### Ementa
 
-1. **[Introdução à microcontroladores](/introducao-a-microcontroladores.md)**
+1. **[Introdução à microcontroladores](/Aulas/01-introducao-a-microcontroladores.md)**
 
-2. **[ATmega328p](/atmega328p.md)**
+2. **[ATmega328p](/Aulas/02-atmega328p.md)**
     - Materiais de apoio
     - Especificações
 
-3. **[Entradas e saídas](/entradas-e-saidas.md)**
+3. **[Entradas e saídas](/Aulas/03-entradas-e-saidas.md)**
     - Sinais digitais
     - Sinais analógicos
 
-4. **[Sistema de Clock](#)**
+4. **Sistema de Clock**
 
-5. **[Timers](/)**
+5. **Timers**
     - Watchdog Timer
 
-6. **[Comparadores]()**
+6. **Comparadores**
 
-7. **[Conversão A/D]()**
+7. **Conversão A/D**
 
-8. **[Comunicação Serial]()**
+8. **Comunicação Serial**
     - Síncronas
     - Assíncronas
 
@@ -37,3 +37,5 @@ Treinamento com o objetivo de mostrar uma visão geral dos microcontroladores be
 
 - DAVIES, J. MSP430 Microcontroller Basics, 2008.
 - [Arduino Store](https://store.arduino.cc/usa/arduino-uno-rev3)
+- [Embedded.fm - Memórias](https://embedded.fm/blog/2016/3/1/embedded-wednesdays-thanks-for-the-memories)
+- [Embarcados.com.br - Arduíno](https://www.embarcados.com.br/lendo-e-escrevendo-nos-pinos-do-arduino/)
