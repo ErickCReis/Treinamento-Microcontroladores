@@ -51,6 +51,13 @@ von Neumann             |  Harvard
 
 </div>
 
+**1.3.3. Principais periféricos**
 
+- Portas de entrada e saída
+- Osciladores e geradores de clock
+- Temporizadores/contadores
+- Watchdog timer
+- Conversores Analógico/Digital
+- Interfaces de comunicação
 
 #### [2. ATmega328p](02-atmega328p.md)
