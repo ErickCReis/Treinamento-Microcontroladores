@@ -13,25 +13,20 @@ Treinamento com o objetivo de mostrar uma visão geral dos microcontroladores be
 1. **[Introdução à microcontroladores](/Aulas/01-introducao-a-microcontroladores.md)**
 
 2. **[ATmega328p](/Aulas/02-atmega328p.md)**
-    - Materiais de apoio
-    - Especificações
 
 3. **[Entradas e saídas](/Aulas/03-entradas-e-saidas.md)**
-    - Sinais digitais
-    - Sinais analógicos
 
-4. **Sistema de Clock**
+4. **Interrupções**
 
-5. **Timers**
-    - Watchdog Timer
+5. **Sistema de Clock**
 
-6. **Comparadores**
+6. **Timers**
 
-7. **Conversão A/D**
+7. **Comparadores**
 
-8. **Comunicação Serial**
-    - Síncronas
-    - Assíncronas
+8. **Conversão A/D**
+
+9. **Comunicação Serial**
 
 ### Referências
 
