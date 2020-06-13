@@ -106,6 +106,18 @@ Entrada for ```0```
 |    0    |     1     |
 |    1    |     0     |
 
+#### XOR [```^```]
+Resultado ```1``` se:
+Entradas forem **diferentes**
+
+| Entrada 1 | Entrada 2 | Resultado |
+|:---------:|:---------:|:---------:|
+|     0     |     0     |     0     |
+|     0     |     1     |     1     |
+|     1     |     0     |     1     |
+|     1     |     1     |     0     |
+
+
 **Exemplos**
 
 ```
@@ -138,16 +150,6 @@ Resultado ```1``` se:
 |     1     |     0     |     0     |
 |     1     |     1     |     0     |
 
-#### XOR
-Resultado ```1``` se:
-Entradas forem **diferentes**
-
-| Entrada 1 | Entrada 2 | Resultado |
-|:---------:|:---------:|:---------:|
-|     0     |     0     |     0     |
-|     0     |     1     |     1     |
-|     1     |     0     |     1     |
-|     1     |     1     |     0     |
 
 #### XNOR
 Resultado ```1``` se:

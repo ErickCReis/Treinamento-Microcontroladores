@@ -12,21 +12,23 @@ Treinamento com o objetivo de mostrar uma visão geral dos microcontroladores be
 
 1. **[Introdução à microcontroladores](/Aulas/01-introducao-a-microcontroladores.md)**
 
-2. **[ATmega328p](/Aulas/02-atmega328p.md)**
+1. **[ATmega328p](/Aulas/02-atmega328p.md)**
 
-3. **[Entradas e saídas](/Aulas/03-entradas-e-saidas.md)**
+1. **[Entradas e saídas](/Aulas/03-entradas-e-saidas.md)**
 
-4. **Interrupções**
+1. **[Interrupções](/Aulas/04-interrupcoes.md)**
 
-5. **Sistema de Clock**
+1. **[Sistema de Clock e Modos de Repouso](/Aulas/05-clock.md)**
 
-6. **Timers**
+1. **Timers**
 
-7. **Comparadores**
+1. **Comparadores**
 
-8. **Conversão A/D**
+1. **Conversão A/D**
 
-9. **Comunicação Serial**
+1. **Comunicação Serial**
+
+**[Extra] [Eletrônica Digital Básica](/Aulas/extra.md)**
 
 ### Referências
 
@@ -38,6 +40,19 @@ Treinamento com o objetivo de mostrar uma visão geral dos microcontroladores be
 
 - [Embedded.fm - Memórias](https://embedded.fm/blog/2016/3/1/embedded-wednesdays-thanks-for-the-memories)
 
-- [Embarcados.com.br - Arduíno](https://www.embarcados.com.br/lendo-e-escrevendo-nos-pinos-do-arduino/)
-
 - [Arquitetura de Computadores - USP](https://www.ime.usp.br/~song/mac344/)
+
+- [Embarcados - Arduíno](https://www.embarcados.com.br/arduino-uno/)
+
+- [Embarcados - Entrada e Saídas](https://www.embarcados.com.br/lendo-e-escrevendo-nos-pinos-do-arduino/)
+
+- [Gammon - Interrupções](http://gammon.com.au/interrupts)
+
+- [Vida de Silício - Interrupções por mudança de estado](https://portal.vidadesilicio.com.br/pcint-interrupcoes-por-mudanca-de-estado/)
+
+- Level Up Your Arduino Code - Youtube SparkFun
+    - [Registers](https://www.youtube.com/watch?v=6q1yEb_ukw8)
+    - [External Interrupts](https://www.youtube.com/watch?v=J61_PKyWjxU&t=918s)
+    - [Timer Interrupts](https://www.youtube.com/watch?v=2kr5A350H7E8)
+
+- [Gammon - Economia de energia](http://www.gammon.com.au/power)
