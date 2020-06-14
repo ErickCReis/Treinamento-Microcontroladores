@@ -115,5 +115,19 @@ Interrupção externa utilizando funções do Arduíno.
 
 Exemplo mais completo utilzando registradores.
 
+#### 4.5. Desafio
+
+Utilizando este [circuito](https://www.tinkercad.com/things/j05thzlvxOd-desafio-interrupcoes), codifique um programa que executa uma contagem (0 à 7) e mostre esse valor em forma binária nos LEDs. Esta contagem deve funcionar da seguinte forma:
+
+- A contagem deve ser incrementada ao pressionar o botão caso a chave esteja ativada.
+
+- A contagem deve ser decrementada ao pressionar o botão caso a chave esteja desativada.
+
+- Caso a contagem seja superior à 7 o valor é zerado.
+
+- Caso a contagem seja inferior à 0 o valor volta para 7.
+
+O programa deve utilizar interrupções e não deve executar nada na função ```void loop()```.
+
 #### [5. Sistema de Clock e Modos de Repouso](05-clock.md)
 
