@@ -20,12 +20,14 @@
 
 **5.2.1. Consumo**
 
-IDLE: **15 mA**
-ADC: **6.5 mA**
-PWR_DOWN : **0.36 mA**
-PWR_SAVE: **1.62 mA**
-STANDBY : **0.84 mA**
-EXT_STANDBY: **1.62 mA**
+|     Modo    | Consumo (mA) |
+|:-----------:|:------------:|
+|     Idle    |      15      |
+|     ADC     |      6.5     |
+|  Power-Down |     0.36     |
+|  Power-Save |     1.62     |
+|   Standby   |     0.84     |
+| Ext-Standby |     1.62     |
 
 **5.2.2. Uso**
 
