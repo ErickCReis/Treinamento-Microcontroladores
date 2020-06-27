@@ -20,11 +20,11 @@ Treinamento com o objetivo de mostrar uma visão geral dos microcontroladores be
 
 1. **[Sistema de Clock e Modos de Repouso](/Aulas/05-clock.md)**
 
-1. **Timers**
+1. **[Contadores](/Aulas/06-contadores.md)**
 
-1. **Comparadores**
+1. **[Comparador](/Aulas/07-comparador.md)**
 
-1. **Conversão A/D**
+1. **[Conversor A/D](/Aulas/08-conversor-a-d.md)**
 
 1. **Comunicação Serial**
 
@@ -56,3 +56,11 @@ Treinamento com o objetivo de mostrar uma visão geral dos microcontroladores be
     - [Timer Interrupts](https://www.youtube.com/watch?v=2kr5A350H7E8)
 
 - [Gammon - Economia de energia](http://www.gammon.com.au/power)
+
+- [Embarcados - Timers](https://www.embarcados.com.br/timers-do-atmega328-no-arduino/)
+
+
+- [Embarcados - Conversor A/D](https://www.embarcados.com.br/conversor-a-d/)
+
+- [Embarcados - Conversor A/D Arduino](https://www.embarcados.com.br/arduino-taxa-de-amostragem-conversor-ad/)
+

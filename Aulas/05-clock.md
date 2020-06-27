@@ -33,5 +33,4 @@
 
 ```set_sleep_mode (SLEEP_MODE_xxx);```
 
-
-
+#### [6. Contadores](06-contadores.md)
