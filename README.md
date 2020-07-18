@@ -26,13 +26,15 @@ Treinamento com o objetivo de mostrar uma visão geral dos microcontroladores be
 
 1. **[Conversor A/D](/Aulas/08-conversor-a-d.md)**
 
-1. **Comunicação Serial**
+1. **[Comunicação Serial](/Aulas/09-comunicacao-serial.md)**
 
 **[Extra] [Eletrônica Digital Básica](/Aulas/extra.md)**
 
 ### Referências
 
 - DAVIES, J. MSP430 Microcontroller Basics, 2008.
+
+- [Eletrônica Embarcada - FGA](https://github.com/DiogoCaetanoGarcia/Microcontroladores)
 
 - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/Foundations)
 
@@ -64,3 +66,9 @@ Treinamento com o objetivo de mostrar uma visão geral dos microcontroladores be
 
 - [Embarcados - Conversor A/D Arduino](https://www.embarcados.com.br/arduino-taxa-de-amostragem-conversor-ad/)
 
+- [Eletronic Basics - Youtube GreatScott!](https://www.youtube.com/playlist?list=PLAROrg3NQn7cyu01HpOv5BWo217XWBZu0)
+    - [I2C](https://www.youtube.com/watch?v=_fgWQ3TIhyE)
+    - [SPI](https://www.youtube.com/watch?v=fvOAbDMzoks)
+    - [UART/RS-485](https://www.youtube.com/watch?v=yFQS_TQ4948)
+
+- [EDN - USART vs UART: Know the difference](https://www.edn.com/usart-vs-uart-know-the-difference/)

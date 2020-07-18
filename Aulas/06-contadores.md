@@ -18,7 +18,9 @@ O Arduíno conta com 3 timers que podem ser utilizados de diversas formas:
 Frequência da Interrupção = F / (2 * N * (1 + TOP))
 
 `F = Frequência do Arduino`
+
 `N = Prescale`
+
 `TOP = Limite do contador 255 (Timer0 e Timer2) ou 65535 (Timer1)`
 
 **6.1.2. Clear Timer on Compare Match (CTC)**
@@ -29,7 +31,9 @@ Frequência da Interrupção = F / (2 * N * (1 + TOP))
 Frequência da Interrupção = F / (2 * N * (1 + OCRnx))
 
 `F = Frequência do Arduino`
+
 `N = Prescale`
+
 `OCRnx = Valor do registrador de comparação (A ou B) do Timer n`
 
 **6.1.3. Fast PWM**
@@ -42,6 +46,7 @@ Frequência da Interrupção = F / (2 * N * (1 + OCRnx))
 Frequência da Interrupção = F / (N * 256)
 
 `F = Frequência do Arduino`
+
 `N = Prescale`
 
 **6.1.4. Outros**

@@ -30,4 +30,4 @@ Compara a tensão de positiva de AIN0 com o a negativa de AIN1. Quando a tensão
     <img src="../Figuras/registradores/didr1.png" />
 </div>
 
-#### [8. Conversor A/d](08-conversor-a-d.md)
+#### [8. Conversor A/D](08-conversor-a-d.md)
